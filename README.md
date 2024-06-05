@@ -1,4 +1,4 @@
-![logo](/Users/simon/Documents/GitHub/introduction-to-computer-science/assets/logo.png)
+![logo](assets/logo.png)
 
 # Introduction to Computer Science
 
